@@ -1,0 +1,15 @@
+# LogiEdge - local development environment (Windows / VS Code / Jupyter)
+# Tested against Python 3.10, TensorFlow 2.15 (as reported by the user's environment)
+
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
+scikit-learn==1.3.2
+matplotlib==3.8.2
+tensorflow==2.15.0
+tensorflow-model-optimization==0.7.5
+paho-mqtt==2.1.0
+psutil==5.9.8
+jupyter==1.0.0
+notebook==7.0.7
+ipykernel==6.29.0

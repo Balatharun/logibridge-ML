@@ -1,0 +1,4 @@
+variant,mean_latency_ms,p95_latency_ms,model_size_kb,accuracy_pct,critical_recall_pct,energy_per_inference_mj
+M1_FP32,0.0078,0.0087,5.19,100.0,100.0,0.0524
+M2_PTQ_INT8,0.0269,0.0513,3.38,95.77,100.0,0.4037
+M3_PRUNED_INT8,0.0288,0.0354,3.38,94.37,96.67,0.432
